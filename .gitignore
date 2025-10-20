@@ -33,3 +33,10 @@ coverage.xml
 
 # Project-specific
 __init__.pyc
+
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
