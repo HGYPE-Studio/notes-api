@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.envrc
+*.env
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.log
+
+# macOS / Linux
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Test and coverage
+htmlcov/
+.tox/
+coverage.xml
+.pytest_cache/
+
+# Docker
+*.pid
+*.sock
+
+# Project-specific
+__init__.pyc
